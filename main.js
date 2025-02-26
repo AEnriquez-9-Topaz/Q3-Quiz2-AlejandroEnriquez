@@ -35,7 +35,7 @@
 
 						var r_ans = Cost*Discount
 
-						window.alert('The Price for your Seat on the Snowtrain is ' + r_ans + ".")
+						window.alert('The Price for your Seat is ' + r_ans + ".")
 
 					}
 
