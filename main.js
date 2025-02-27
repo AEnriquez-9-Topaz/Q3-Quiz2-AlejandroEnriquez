@@ -40,7 +40,7 @@
 					}
 
 					function Buy() {
-						window.alert('Your ticket has been sent to you email!')
+						window.alert('Your ticket has been sent to your email!')
 					}
 
 
